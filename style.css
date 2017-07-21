@@ -1,7 +1,7 @@
 .header{
 border:5px solid black;border-radius: 5px;border-width: 5px;text-align: right;
 background-color:#bbbabb;width:1280px;padding: 0px 20px 0px 25px;
-color: red;position:relative;
+color: red;position:absolute;
 }
 
 #left {
