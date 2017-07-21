@@ -1,12 +1,12 @@
 .header{
 border:5px solid black;border-radius: 5px;border-width: 5px;text-align: right;
 background-color:#bbbabb;width:1280px;padding: 0px 20px 0px 25px;
-color: red;position:absolute;
+color: red;position:relative;
 }
 
 #left {
 	border:2px solid black;margin: 30px 0px 0px 3px;width:180px;height:900px;background-color: #273736;
-	text-align:center;font-size: 70px;color: #aaaaaa;position:relative;
+	text-align:center;font-size: 70px;color: #aaaaaa;position:absolute;
 }
 #right {
 	margin:-905px 3px 10px 200px;border: 3px solid black;height:900px;background-color: #cccccc;padding-left:10px;position:relative;
