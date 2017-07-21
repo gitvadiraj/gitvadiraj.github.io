@@ -1,7 +1,7 @@
 .header{
 border:5px solid black;border-radius: 5px;border-width: 5px;text-align: right;
 background-color:#bbbabb;width:1280px;padding: 0px 20px 0px 25px;
-color: red;position:relative;
+color: red;
 }
 
 #left {
@@ -9,10 +9,10 @@ color: red;position:relative;
 	text-align:center;font-size: 70px;color: #aaaaaa;position:relative;
 }
 #right {
-	margin:-905px 3px 10px 200px;border: 3px solid black;height:900px;background-color: #cccccc;padding-left:10px;position:relative;
+	margin:-905px 3px 10px 200px;border: 3px solid black;height:900px;background-color: #cccccc;padding-left:10px;
 }
 .footer {
-	 border: 5px solid black;border-radius: 3px;height: 90px;font-size: 17px;background-color:#ffaaaa;padding-left: 20px;position:relative;}
+	 border: 5px solid black;border-radius: 3px;height: 90px;font-size: 17px;background-color:#ffaaaa;padding-left: 20px;}
 h4 {
 	text-decoration: underline;color:#0f0000;
 }
